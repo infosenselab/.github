@@ -1,0 +1,2 @@
+InfoSense is a research lab in the Department of Computer Science at Georgetown University led by Grace Hui Yang. We research Artificial Intelligence (AI), Information Retrieval (IR), Machine Learning (ML), and Privacy. Formed by undergraduates, Masters, PhDs, Post-docs, programmers and faculty, the research team devotes its passion and energy to both theory and systems development of human-centered AI.
+
